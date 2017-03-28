@@ -1,0 +1,17 @@
+{
+  "name": "cloud-service",
+  "version": "1.0.0",
+  "description": "A lambda stuff, you wouldn't actually got chance so see this!",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.24.0",
+    "babel-polyfill": "^6.23.0",
+    "graphql": "^0.9.1",
+    "graphql-server-lambda": "^0.6.0"
+  }
+}
